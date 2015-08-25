@@ -1,0 +1,1 @@
+{user}:{pass}:{uid}:{gid}:{gecos}:{home}:{upload_bandwidth}:{download_bandwidth}:{upload_ratio}:{download_ratio}:{max_conn}:{files_quota}:{size_quota}:{auth_local_ips}:{refused_local_ips}:{auth_client_ips}:{refused_client_ips}:{time_restrictions}
